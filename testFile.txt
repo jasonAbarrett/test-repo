@@ -12,3 +12,4 @@ adding line 11 to third branch
 here in forked version - adding a new line 12
 
 adding line 14 in response to issue #5
+fix to #5 
